@@ -1,9 +1,12 @@
 # CSCI34000-CPU-Scheduling-Simulation
 
 The main home project for CSCI34000 Operating Systems course at Hunter College (Spring 2020)
-	Professor: Pavel Shostak
-	Final Score: 100/100
-	Goal: To build an executable file to simulate operating system scheduling based on the below specifications 
+
+Professor: Pavel Shostak
+
+Final Score: 100/100
+
+Goal: To build an executable file to simulate operating system scheduling based on the below specifications 
 
 The project is due to May 12 (11:59 pm).
 
